@@ -1,0 +1,13 @@
+body
+{
+    background-color: aliceblue;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+    border: 2px solid royalblue;
+    padding: 5px;
+}
+#different{
+    color: greenyellow;
+}
