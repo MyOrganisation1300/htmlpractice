@@ -11,3 +11,7 @@ p{
 #different{
     color: greenyellow;
 }
+.error{
+    color: red;
+    font-size: 200%
+}
