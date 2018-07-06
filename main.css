@@ -15,3 +15,9 @@ p{
     color: red;
     font-size: 200%
 }
+a:link{
+    color: green;
+}
+a:hover{
+    color: deeppink;
+}
