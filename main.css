@@ -8,6 +8,27 @@ p{
     border: 2px solid royalblue;
     padding: 5px;
 }
+table ,th ,td{
+    width: 100%;
+    border: 2px solid red;
+    padding: 10px;
+     
+}
+table{
+    border-spacing: 5px
+}
+#t02,#t03{
+    width: 50%;
+}
+#t02 tr:nth-child(odd){
+    background-color: grey
+}
+#t03 tr:nth-child(even){
+    background-color: grey
+}
+
+
+
 #different{
     color: greenyellow;
 }
