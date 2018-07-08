@@ -26,7 +26,12 @@ table{
 #t03 tr:nth-child(even){
     background-color: grey
 }
-
+ul{
+    list-style-type: square
+}
+/* ol:type {
+    type: "A"
+} */
 
 
 #different{
